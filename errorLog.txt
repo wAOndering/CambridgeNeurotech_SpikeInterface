@@ -1,0 +1,14 @@
+###############################
+# ERROR H1-158 H1-276 not defined
+# ERROR H1-236 duplicate index 60 and 38
+# ERROR NO SHEET FOR ASSY-196
+# ERROR H5 & H9-276 duplicate index 33 and 33
+# ERROR H5 & H9-236 duplicate index 33 and 33
+# ERROR E-1 & E-2 ASSY-116 many duplicated channel index 
+# ERROR E-1 & E-2 ASSY-156 many duplicated channel index 3 and 56
+# ERROR P-1 & P-2 ASSY-116 many duplicated channel index 
+# ERROR P-1 & P-2 ASSY-156 many duplicated channel index 56
+# ERROR NO ASSY-1 for L1
+# ERROR M2 ASSY-158 channel index 16 duplicated
+# ERROR H8 ASSY-77 many duplicated channel index
+###############################
